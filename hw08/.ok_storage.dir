@@ -1,0 +1,6 @@
+'accumulate-tail-correct', (0, 66)
+'derive-sum-correct', (512, 66)
+'derive-product-correct', (1024, 66)
+'make-exp-correct', (1536, 66)
+'derive-exp-correct', (2048, 66)
+'quasiquote-correct', (2560, 66)
